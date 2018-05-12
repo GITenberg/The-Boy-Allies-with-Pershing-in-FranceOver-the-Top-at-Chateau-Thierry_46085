@@ -1,0 +1,28 @@
+_repo: The-Boy-Allies-with-Pershing-in-FranceOver-the-Top-at-Chateau-Thierry_46085
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46085-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hayes, Clair W. (Clair Wallace)
+    aliases:
+    - Hayes, Clair Wallace
+    - Drake, Robert L.
+    birthdate: 1887
+    gutenberg_agent_id: '1939'
+    url: http://www.gutenberg.org/2009/agents/1939
+description: ''
+gutenberg_issued: '2014-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Allies with Pershing in France; Or, Over the Top at Chateau Thierry
+url: http://www.gutenberg.org/ebooks/46085
