@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '1939'
     url: http://www.gutenberg.org/2009/agents/1939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46085#The-Boy-Allies-with-Pershing-in-FranceOver-the-Top-at-Chateau-Thierry
 gutenberg_issued: '2014-06-24'
 gutenberg_type: Text
 identifiers:
